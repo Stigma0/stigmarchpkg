@@ -1,0 +1,17 @@
+dolphin
+egl-wayland
+firefox
+git
+imagemagick
+kitty
+konsole
+kwayland-integration
+man-db
+neofetch
+opera
+restic
+sudo
+texinfo
+vim
+virtualbox-guest-utils
+plasma
