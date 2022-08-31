@@ -11,7 +11,7 @@ neofetch
 opera
 firefox
 plasma
-wayland-session
+plasma-wayland-session
 egl-wayland
 konsole
 dolphin
